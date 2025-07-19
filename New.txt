@@ -1,0 +1,180 @@
+1. Introduction
+1.1 About Me
+
+Quick introduction: Name, background, and what excites you about technology and building products.
+
+Elevator pitch (if at the end):
+"I'm an engineer passionate about building impactful solutions. At JPMorgan, I not only learned to ship code, but also what it takes to thrive in a high-performance, values-driven culture."
+
+1.2 About the Product Developed
+
+"Our product streamlines [insert core function—example: workflow management for internal processes]."
+
+Brief origin story:
+
+Conceived to solve [specific problem].
+
+Developed collaboratively with input from Kushal, Roshan, and Jhansi.
+
+Aims to [state value proposition in one line].
+
+2. Internship Journey: 7-Week Overview
+2.1 The D-Day: 9th June
+
+Official start—setting the tone for a transformational journey.
+
+2.2 Week 1: Immersing into JPMorgan’s Culture
+
+Understood company values, code of conduct, and expectations.
+
+Experienced firsthand what makes JPMorgan unique: integrity, teamwork, and a drive for excellence.
+
+2.3 Discovering Internal Portals
+
+Explored platforms like Picture This, Phonebook, Newsletters.
+
+Realized how these tools power daily operations and collaboration.
+
+2.4 Support Systems
+
+Learned about Employee Assistance Program, meQuilibrium, Social Media Compliance.
+
+Impressed by the company’s commitment to holistic employee well-being.
+
+2.5 Product/Development Overview (Teaser)
+
+A quick snapshot: Modern, modular, and user-centric—both in tech and design.
+
+3. Product Development Deep Dive
+3.1 Product Overview
+
+Purpose, target users, and what sets it apart.
+
+3.2 Technologies Used
+
+Frontend: React, Redux, TanStack Query, custom components.
+
+Backend: Node.js, Express, JsonServer, SQLite3.
+
+Other Tools: Jenkins for automation, Git for version control.
+
+3.3 Process Flow
+
+End-to-end workflow for status updates.
+
+Visual: [Insert flow diagrams]
+
+Show how user actions propagate through the system and trigger backend changes.
+
+3.4 Step-by-Step Implementation
+
+Outline major milestones:
+
+Requirement Analysis
+
+UI/UX Design & Component Creation
+
+API Integration & State Management
+
+Testing & Bug Fixes
+
+Deployment via Jenkins
+
+3.5 User Roles & Role-Based Access
+
+Demo different access levels: Admin, Manager, User.
+
+Explain why security and role-based control matter.
+
+3.6 Challenges Faced & Resolved
+
+Multi-role form building (Redux state management complexities).
+
+Bugs: Immer-related Redux state update issues, UI glitches in ResizableTable & Tooltips.
+
+Approach: Created demo branches to reproduce, isolate, and fix bugs collaboratively.
+
+3.7 Tools Used
+
+Highlight how these tools enabled speed and efficiency.
+
+4. LIVE Demo [5 min walk-through]
+Walk through the application from login to workflow status update.
+
+Show role-based UI, demonstrate form creation/editing, and highlight unique features like resizable tables and tooltips.
+
+Share screen (or video) to demonstrate real-time usage.
+
+5. Major Learnings & Growth
+5.1 Technical Growth
+
+Frontend:
+
+Mastered Redux, custom component building (resizable tables, tooltips, Toastify, accordion).
+
+Learned about pagination (client-side and theory for server-side).
+
+Gained deep understanding of TanStack Query, and core concepts in package.json and build tools.
+
+Backend:
+
+Built scalable APIs with JsonServer, integrated SQLite3, and handled authentication/authorization.
+
+Designed a modular backend (models, routes, controllers).
+
+Why SQLite3? Lightweight, zero-config, ideal for quick prototyping and testing.
+
+Version Control:
+
+Maintained clean codebase using Git; visualized history with a Git graph for better team collaboration.
+
+Automation (Jenkins):
+
+Automated builds and tests with CI/CD pipelines.
+
+Scheduled automated tasks and learned to run periodic jobs.
+
+5.2 Professional Growth
+
+Sharpened communication and teamwork by collaborating across roles and geographies.
+
+Developed resilience and problem-solving mindset (handling bugs, adapting to new tech).
+
+Reinforced the value of open feedback and proactive learning.
+
+Personal Note:
+
+Reiterate gratitude for team support, especially during challenging family times (mention support during mother’s injury).
+
+Acknowledge openness and mentorship from the team.
+
+6. Further Improvements & Future Roadmap
+Column-based filters for improved data exploration.
+
+Completing the “Simulate” function (mail services with node-mailer).
+
+Upgrade to server-side pagination for scalability.
+
+7. Brand Building & Key Takeaways (Sticky Note)
+Desires: What do I want to build/solve?
+
+Abilities: What are my strengths (technical/professional)?
+
+Temperament: How do I approach problems & work in teams?
+
+Assets: What unique value do I bring to the table?
+
+8. Closing & Thank You
+Final reflection:
+
+"This internship was more than a technical journey—it was about becoming a more complete, resilient, and empathetic professional."
+
+Special thanks:
+
+Team, mentors, and especially the support received during personal challenges.
+
+End with Jamie Dimon's quote:
+"Return every email and phone call – every day. Run efficient meetings – start on time and have an agenda and a follow up list."
+
+Thank the audience for their time and support.
+
